@@ -162,4 +162,4 @@ class Marquee3k {
   }
 }
 
-export default Marquee3k;
+module.exports = Marquee3k;
